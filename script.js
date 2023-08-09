@@ -1,1 +1,1 @@
-
+let yourArray=["unnath",true,3,'f']
